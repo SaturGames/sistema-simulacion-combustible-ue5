@@ -38,7 +38,7 @@ Sistema modular y desacoplado de interacción y simulación de combustible desar
 
 ## Ejecutable y Builds
 
-- **Descargar demostración interactiva:** [Disponible en Itch.io](https://itch.io)
+- **Descargar demostración interactiva:** [Disponible en Itch.io](https://satur-games.itch.io/sistema-de-interaccin-para-gasolinera)
 
 ---
 
