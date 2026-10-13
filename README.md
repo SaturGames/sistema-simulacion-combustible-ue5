@@ -1,4 +1,4 @@
-# UE5 - Sistema Modular de Simulación de Combustible (SG 0.1 & 0.2)
+# UE5 - Sistema Modular de Interacción y Gestión de Combustible | Gameplay & Simulación (v0.1 & 0.2)
 
 Sistema modular y desacoplado de interacción y simulación de combustible desarrollado en **Unreal Engine 5.4**. Diseñado enfocado en arquitectura limpia, escalabilidad y separación de responsabilidades lógicas mediante el uso de Eventos Personalizados (CE) y Funciones (FN).
 
